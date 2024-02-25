@@ -1,3 +1,3 @@
-export const URL_API = "http://localhost:3500/api";
-export const URL_IMAGES = "http://localhost:3500/images/";
-export const URL_API_PRODUCTOS = "http://localhost:3500/api/productos";
+export const URL_API = "https://server-api-consume.onrender.com/api";
+export const URL_IMAGES = "https://server-api-consume.onrender.com/images/";
+export const URL_API_PRODUCTOS = "https://server-api-consume.onrender.com/api/productos";
